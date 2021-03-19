@@ -18,19 +18,371 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0"
             crossorigin="anonymous"></script>
+    <link href="css/CustomStyle.css" rel="stylesheet">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-M1K95H8C0F"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
         gtag('js', new Date());
 
         gtag('config', 'G-M1K95H8C0F');
     </script>
 </head>
-<body>
-<header class="fixed-top"><nav class="navbar-nav">
+<body data-spy="scroll" data-target=".header">
+<header class="header fixed-top">
+    <nav class="navbar navbar-light bg-light navbar-expand-md">
+        <a class="navbar-brand logo-wrap" href="#body">
+            <span style="font-weight:600; font-size:36px;  font-family: Waltograph">Endangered Animals</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu"
+                aria-controls="menu"
+                aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="menu">
+            <ul class="navbar-nav nav-pills">
 
-</nav></header>
+
+                <li class="js_nav-item nav-item"><a class="nav-link nav-item-child nav-item-hover"
+                                                    href="#why">Why save us? </a>
+                </li>
+                <li class="js_nav-item nav-item"><a class="nav-link nav-item-child nav-item-hover"
+                                                    href="#how">HOW YOU CAN SAVE US? </a>
+                </li>
+                <li class="js_nav-item nav-item">
+                    <a class="nav-link nav-item-child nav-item-hover" href="#stories">
+                        Stories
+                    </a>
+                </li>
+                <li class="js_nav-item nav-item"><a class="nav-link  nav-item-child nav-item-hover"
+                                                    href="#about">About Us </a>
+                </li>
+
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="home">
+
+    <div class="home-overlay">
+        <div class="container">
+            <div class="details">
+                <div class="row">
+                    <div class="intro col-md-8">
+                        <br><br>
+                        <p>This website has been created to introduce kids to the endangered species! We hope that this
+                            will encourage kids and these kids will want to save us (the endangered animals). We also
+                            hope that these kids/ our readers can change the world! In this website there will be a
+                            combination of many stories that will have real life facts intertwined with loving and
+                            adventures stories about these helpless animals. We believe kids are our future and can
+                            surely accomplish anything they set their minds too. We also believe the that learning about
+                            us while young sparks more ideas. Your compassion and imagination will someday lead to a
+                            solution to save us!
+                        </p>
+                        </h5>
+
+
+                    </div>
+                    <div class="col-md-3 offset-md-1 ">
+                        <img src="img/Mina.png" style="width: 100%" alt="Mina African wild Dog"> <br><br>
+                        <ul class="list-inline " style="text-align: center;">
+                            <li class="list-inline-item"><a href="mailto:nikanimalsb@gmail.com"
+                                                            class="social-icons"
+                                                            title="nikanimalsb@gmail.com"><i
+                                    class="fab fa-envelope fa"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+<section id="why" class="section type-2">
+
+    <div class="container">
+        <div class="section-headlines ">
+            <h4>WHY SAVE US?</h4>
+        </div>
+        <div class="row">
+            <p>Why should you save us endangered animals? We will give you 3 reasons why!
+            <ol>
+                <li> If we go extinct then there will be a disruption in the food chain.</li>
+                <li> Humans will have less food because we help keep the plant eaters under control so that there are
+                    not to many of them but if we are gone they will eat all your vegetation.
+                </li>
+                <li> You depend on a healthy ecosystem but when we are endangered the ecosystem is thrown off balance
+                    and it makes it harder for you to survive.
+                </li>
+            </ol>
+            You do not know what ripple could be caused by one of us going extinct that could be too late to turn back
+            and fix the ecosystem so save us before it is too late for you and us, for all of us. </p>
+        </div>
+    </div>
+</section>
+
+<section id="how" class="space section type-2">
+
+    <div class="container">
+        <div class="section-headlines ">
+            <h4>HOW YOU CAN SAVE US?</h4>
+        </div>
+        <div class="row">
+            <p>
+                How can you save us? Here are some ways!
+            <ol>
+                <li> Teach siblings, parents, friends, and others about these animals so that they can also help!</li>
+                <li> You could do what we did research! The more you know the more you can help by making sure you won't
+                    do something that can harm these animals or their habitats!
+                </li>
+                <li> You could if you are an adult donate to these causes, this would help others have the things they
+                    need to save these animals!
+                </li>
+                <li> You also could spread this website so that others can learn about these animals too! (If someone
+                    gave you this link tell them thank you)!
+                </li>
+                <li> If you want you could tell others to do all of the above!</li>
+            </ol>
+            </p>
+        </div>
+    </div>
+</section>
+
+
+<div id="stories" class="jumper"></div>
+
+<div class="section type-2">
+    <div class="container">
+        <div class="section-headlines type-1">
+            <h4>Stories</h4>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 questions">
+                <div class="media">
+                    <div class="media-body">
+                        <!-- Story 1 -->
+                        <article id="#africanwilddogstory">
+                            <h3 class="title-bg"><a href="blog-single.htm">Mina the African Wild Dog</a></h3>
+                            <div class="post-summary">
+                                <img src="img/Mina.png" alt="Mina">
+                                <p>Hi, I am an African Wild Dog and my name is Mina. I live in a pack with my mother, my
+                                    father, me and my two sisters(Melinie and Elle) and ten other wild dogs. Our leader
+                                    is a female dog named Aliana. We are always hiding and running. We sometimes have to
+                                    starve! We are losing our food because of the loss of their habitat. We are
+                                    carnivores which means we eat meat. We hunt animals like antelopes on wildebeests.
+                                    We don't see many packs in Africa. Hunters come and kill most of the packs or they
+                                    lose their habitats. Mama always tells me that we have to believe in ourselves and
+                                    keep going. We are one of the only species that care for the old, sick, and injured
+                                    because for us family is family. There are only about 4,000 wild dogs in the wild.
+                                    If we go extinct then there will be no dog species with four toes! We are one of a
+                                    kind. We live for 10 to 13 years and weigh from 35 to 50 pounds! We are only found
+                                    in Africa. We live in packs with an average of 10 members. 1 liter contains 16
+                                    puppies! The pubs get to eat before the alpha. We also are not picky eaters. We eat
+                                    almost anything! We are in competition for food with lions because we both eat just
+                                    about the same things. We are one of the most endangered animals in the world!
+                                </p>
+                                <p>
+                                    There are about 4,000 wild dogs like me on average! To tell the truth I am really
+                                    scared. What if a hunter got my pack? What if we could not find enough food and we
+                                    starved to death? What if we caught one of the bad diseases?I want some miracle to
+                                    save us! Mama says we have to be our own miracle. Mama is always correct. One day we
+                                    were walking through the woods when I saw something shiny. “Stop”, I barked,
+                                    everyone stopped and I told them to avoid the trap. They all listened and then we
+                                    heard barking and voices, then a buzzing sound filled the air along with the scent
+                                    of cut wood. We ran fast down the stretch of the forest around the city. We hurried
+                                    to find another safe forest before it got dark. We finally reached another forest
+                                    but it was dark outside so we would have to make a temporary den. Mama told me and
+                                    my two sisters we had to have to take care of one another while they were gone. So
+                                    we huddled around ourselves and cuddled while mamma and papa scouted with the rest
+                                    of the pack. We were starting to get restless, so since we were all bored, we just
+                                    talked. The adults came back and they found a patch of grass then they made the den.
+                                    We cuddled up and slept. In two weeks we would leave this pack and start our own
+                                    great packs! I would want to be my pack leader but mama says its hard work so I have
+                                    to try hard. Aliana teaches us how to hunt in the morning and I am the best!
+
+                                </p>
+                                <p>
+                                    Aliana says I will be the best pack member ever and I smile. She also pulls me aside
+                                    and tells me I might become the pack leader. “Ding, help” Aliana cries out “I am
+                                    stuck!”. I jump to see whats wrong and I see that it is only a net and I bite the
+                                    net to save her.I am glad she is okay. We hurry back to the camp where my siblings
+                                    ask if I am okay. I just nod. I thought about how close that was!. “Dinner”,
+                                    Aliana’s voice rings through the trees. We bolt off in search of food and we spit up
+                                    at the bend. Then around a tree I spot a wildebeest! I smile, Aliana will be proud.
+                                    I bark to the pack which comes and we chase our prey. Finally the wildebeest got
+                                    tired and slows down allowing us to advance. We capture our prey and feast! Aliana
+                                    is very proud of me.
+
+
+                                </p>
+                                <p>
+                                    We then hear voices. We all expect to hear the buzz of the saw but this time we hear
+                                    something different, something worse. “ Bam, bam, bam” the bullets are big and black
+                                    flying over our head. We run. The hunters chase our pack aiming at us. Aliana barks
+                                    and tells some of us to slack behind and go under their legs and run. She tells the
+                                    rest of them to slack behind but go around them. We thankfully escape. The hunters
+                                    are close on our tails, literally!. We go into a cave and they pass by. We run the
+                                    other way, finally we reach home. I am more scared than ever. We go to bed but
+                                    tonight I wake up, I crawl over to mama and Papa and snuggle in between them. I
+                                    sleep peacefully for the rest of the night.In the morning we darted around our den
+                                    and hid waiting for breakfast to visit us but none came. “We won’t get breakfast
+                                    today” announced Aliana. “ Aww”.we all cried.
+
+
+                                </p>
+                                <p>
+                                    ``Well” said mama “the hunters are killing all of them!” she continued” we won't
+                                    survive long like this” Mama looked worried.I cuddled closer to her, she went on “
+                                    this forest has no food, I think..” she did not look happy about what she was going
+                                    to say. “ I think we have to…” she trailed off. I knew she could not finish the
+                                    sentence but before I could finish it for her Aliana did “leave” she said. I know.
+
+                                </p>
+                                <p>
+                                    We left the house but shortly after we heard voices. “ Not again me and my two
+                                    sisters whined and rolled on the ground. “Get up and stop whining” mama ordered.
+                                    “Get up and run, get up and hide” she sounded mad but not at us at the hunters.
+                                    “Wait I say “ they dont” want us, they want some other animal called..” a painted
+                                    hunter, we are not painted and no animal here is painted, we should help them. I
+                                    start to trot of but mama grabs my tail, “No” she says “ we are the painted hunters,
+                                    we just have to names" adds papa. “ Plus”, agrees mama, “Humans have no mercy on us,
+                                    to them we dont look cute at all.” But they say all dogs are cute!My siblings are
+                                    cute” Come my darling” says Aliana. Your mother is right” “Let me tell you a secret”
+                                    says Aliana. “Only alpha dogs have puppies but your mother acted so much as your
+                                    mother that she let you call her mom.” oh I say “ she loves me a lot and I dont want
+                                    to leave my pack and start my own pack. I say “ You must” Aliana replies “Lets join
+                                    the others. We ran with the pack and marked our territory and slept in the den. I
+                                    crawled once again in between mama and papa. This time though mama sat up and curled
+                                    around me snuggling me tight "Good night Mina”, she whispers softly into my ear.
+                                    "You are my adorable". “My pack lived until the very end so did Aliana’s. But will
+                                    our species? Will you save our species?</p>
+                                <div class="post-summary-footer">
+                                    <ul class="post-data">
+                                        <li><i class="fas fa-calendar-alt"></i> 03/19/21</li>
+                                        <li><i class="fas fa-user"></i> <a href="#">Mina</a></li>
+                                        <li><i class="fas fa-tags"></i> <a href="#">Dog</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </article>
+                        <br>
+                        <!-- Story 2 -->
+                        <article id="africanwildfunfacts">
+                            <h3 class="title-bg"><a href="blog-single.htm">Fun facts about African Wild Dog</a></h3>
+                            <div class="post-summary">
+                                <img src="img/WildDog1.jpg" alt="African Wild Dog">
+                                <img src="img/WildDog2.jpg" alt="African Wild Dog">
+                                <img src="img/WildDog3.jpg" alt="African Wild Dog">
+                                <img src="img/WildDog4.jpg" alt="African Wild Dog">
+                                <p>Here are some fun facts about wild dogs!
+<ol>
+                                <li>
+                                    Wild dogs are the only dogs with four toes!
+                                </li><li>       African wild dog's scientific name is Lycon pictus !
+                            </li><li>       African wild dogs have many names including painted dogs, painted hunters, and painted wolf. These are all refering to thier coats because the coats have splotches of red, brown, black, white, and gray! No two coats are the same.
+                            </li><li>       These dogs are one of the only animals that takes care of the old, sick, and injured.
+                            </li><li>         The pups get to eat before the alpha!
+                            </li><li>         A litter can contain 16 pups.
+                            </li><li>         All pack members take care of the old, sick, injured, and young!
+                            </li><li>         The dogs are very social and live with pack with an average of 10 members.
+                            </li><li>         These animals nest in a different place each night unless they have a newborn litter.
+                            </li><li>         These dogs catch thier prey by chasing thier prey until it gets to tiered to run and these fierce dogs then eat the animal!</p>
+                            </li>      </ol>
+                                <div class="post-summary-footer">
+
+                                    <ul class="post-data">
+                                        <li><i class="fas fa-calendar-alt"></i> 03/19/21</li>
+                                        <li><i class="fas fa-user"></i> <a href="#">Inika</a></li>
+                                        <li><i class="fas fa-tags"></i> <a href="#">Fun facts about African Wild dogs</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </article>
+                        <br>
+                        <!-- Story 3 -->
+                        <article id="africanwildmap">
+                            <h3 class="title-bg"><a href="blog-single.htm">Where they live?</a></h3>
+                            <div class="post-summary">
+                                <p>These dogs live in Africa. Below is a world map! Africa is circled.</p>
+
+                                <img src="img/AfricanWildDogMap.png" alt="Map">
+                                <br>
+                                <div class="post-summary-footer">
+                                    <ul class="post-data">
+                                        <li><i class="fas fa-calendar-alt"></i> 03/19/21</li>
+                                        <li><i class="fas fa-user"></i> <a href="#">Inika</a></li>
+                                        <li><i class="fas fa-tags"></i> <a href="#">Map</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </article>
+                        <br>
+                        <!-- Story 4 -->
+                        <article id="africanwildgraph">
+                            <h3 class="title-bg"><a href="blog-single.htm">Graph to show when they will go extinct</a></h3>
+                            <div class="post-summary">
+                                <p>These dogs are very endangered but how fast are their numbers are lowering? In 2030 they will all be gone! Here is the graph:
+                                </p>
+
+                                <img src="img/WildDogGraph.png" alt="Map">
+                                <br>
+                                <div class="post-summary-footer">
+                                    <ul class="post-data">
+                                        <li><i class="fas fa-calendar-alt"></i> 03/19/21</li>
+                                        <li><i class="fas fa-user"></i> <a href="#">Inika</a></li>
+                                        <li><i class="fas fa-tags"></i> <a href="#">Map</a></li>
+                                    </ul>
+                                </div>
+
+                                <p>I hope you have enjoyed learning about these wild dogs.
+                                </p>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-lg-3  sidebar">
+
+                <!--Categories-->
+                <h5 class="title-bg">Contents</h5>
+                <ul class="post-category-list">
+                    <li><a href="#africanwilddogstory"><i class="icon-plus-sign"></i>African Wild Dog Story</a></li>
+                    <li><a href="#africanwildfunfacts"><i class="icon-plus-sign"></i>African Wild Dog Fun Facts</a></li>
+                    <li><a href="#africanwildmap"><i class="icon-plus-sign"></i>African Wild Dog Map</a></li>
+                    <li><a href="#africanwildgraph"><i class="icon-plus-sign"></i>African Wild Chart </a></li>
+                </ul>
+                <br><br>
+
+                <!--Tabbed Content-->
+                <h5 class="title-bg">More Info</h5>
+                <ul class="nav nav-tabs">
+                    <li><a href="#about" data-toggle="tab">About Us</a></li>
+                </ul>
+
+                <div class="tab-content">
+                    <div class="tab-pane" id="about">
+                        <p>We are little kids just like you and we have a passion for all animals and would like to contribute to saving these animals so we hope you will help us in this journey!
+
+                            Please email us if you have any questions or would like to here more about a certain animal!</p>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+<script src="js/jquery.smooth-scroll.js" type="text/javascript"></script>
 </body>
 </html>

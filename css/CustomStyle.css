@@ -1,7 +1,9 @@
 html,
 body {
-
-    font-family: "Akkurat Pro Regular", Arial, sans-serif;
+    font-family: 'Merriweather', serif;;
+    font-family: "Akkurat Pro Regular", Arial, serif;
+    line-height: 1.7!important;
+    font-size: 1.1em;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -33,7 +35,7 @@ h2 small {font-size: 30px;}
 h5 small {font-size: 14px;}
 h6 small {font-size: 12px;}
 h2, .btn-link{
-    color: #4e2a84 !important;
+    color: #8c1515 !important;
 }
 .btn-link{
     font-size: 1rem!important;
@@ -236,8 +238,10 @@ a, .btn-link
     background-size: cover;
     background-attachment: fixed;
     padding-top: 110px;
-    font-size: 19px !important;
+    font-size:21px !important;
     font-weight: 400!important;
+    color: black;
+
 
 }
 #home h5{
@@ -310,11 +314,12 @@ a, .btn-link
 
 .social-icons {
     display: inline-block;
-    width: 40px;
-    height: 40px;
-    font-size: 16px;
+    width: 60px;
+    height: 60px;
+    font-size: 26px;
     color: #fff;
     background: #4E2A84;
+    background: #8c1515;
     text-align: center;
     border-radius: 50%;
 
@@ -333,9 +338,9 @@ a, .btn-link
     transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
 }
 .initiatives-btn {
-    border: 2px solid #fff;
-    border-radius: 50px;
-    color: #fff;
+
+    border: 2px solid #8c1515!important;
+    color: #8c1515;
     display: inline-block;
     margin: 0 10px;
     padding: 11px 22px;
@@ -347,7 +352,8 @@ a, .btn-link
 
 .initiatives-btn:hover,
 .initiatives-btn:focus{
-    background-color: #ffffff;
+    background-color: #8c1515;
+    color: white;
 }
 
 .initiatives-btn i{
@@ -390,8 +396,23 @@ a, .btn-link
     text-align: left;
     width: 70%;
 }
+.blog{
+    color: #0a0a0a!important;
+    line-height: 1.5!important;
+    text-rendering: optimizeLegibility!important;
+    font-size: 20px;
+    padding: 20px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.blog h1{
+    background: none!important;
+    font-size: 46px!important;
+    color: #8c1515!important;
+}
 
-
+.blog p{
+    color: #0a0a0a!important;
+}
 .space { background:#f7f7f7; padding:40px 0 0 0;   border-bottom: 1px solid #E5E5E5; clear:both;}
 
 /**************************************
@@ -523,8 +544,8 @@ a, .btn-link
     text-transform:uppercase;
 }
 .project-details {color: #6f6f6f;}
-a {color: #401f68;!important}
-a:hover {color:#4E2A84;!important; text-decoration: none;}
+a {color: #8c1515;!important}
+a:hover {color:#4285f4;!important; text-decoration: none;}
 
 .project-info {margin: 0px 0px 40px 0px;}
 .project-info li {
@@ -719,17 +740,17 @@ ul.post-data li:last-child {padding-right: 0px;}
 / Sidebar
 **************************************/
 .sidebar{
-    font-size: 12px!important;
+    font-size: 16px!important;
     padding-right: 0px;
     margin-right: 0px;
     margin-left: 30px;
 }
 .sidebar ul{
-    font-size: 12px!important;
+    font-size: 16px!important;
     padding-left: 0px;
 
 }
-.sidebar h6{font-size: 13px!important;}
+.sidebar h6{font-size: 16px!important;}
 .sidebar input{width: 80%;}
 .sidebar ul.post-category-list,
 .sidebar .tab-content .tab-pane ul {margin:0px;}

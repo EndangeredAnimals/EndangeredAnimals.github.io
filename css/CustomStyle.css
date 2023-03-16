@@ -21,7 +21,9 @@ body {
     height: 100%;
     min-height: 100%;
 }
-
+a{
+    font-family: "Newsreader";
+}
 
 h1.title-bg, h2.title-bg, h3.title-bg, h4.title-bg , h5.title-bg, h6.title-bg {
     background:#f8f8f8;
@@ -29,6 +31,7 @@ h1.title-bg, h2.title-bg, h3.title-bg, h4.title-bg , h5.title-bg, h6.title-bg {
     margin: 0px 0px 20px 0px;
     border-bottom: 1px  #a9a9a9;
     border-top: 1px  #a9a9a9;
+    font-weight: 600;
 }
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {color:#7f7f7f;}
 h2 small {font-size: 30px;}
@@ -138,7 +141,7 @@ a, .btn-link
 .header .nav-item-child {
     position: relative;
     display: block;
-    font-size: 15px!important;
+    font-size: 18px!important;
     font-weight: 600!important;
     text-transform: uppercase!important;
     line-height: 50px!important;
@@ -200,8 +203,8 @@ a, .btn-link
 .section-headlines > h4 {
     padding-top: 50px;
     font-family: 'Waltograph', sans-serif;
-    font-size: 3em;
-
+    font-size: 2.5em;
+font-weight: 600;
     color: #2a333b;
     border-bottom: 2px solid #ddd;
     display: inline-block;

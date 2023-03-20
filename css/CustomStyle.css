@@ -373,7 +373,7 @@ font-weight: 600;
     line-height: 24px;
 }
 
-#about, #research {
+#about,#about_us, #research {
     background-color: #fff;
     display: inline;
     float: left;
@@ -405,12 +405,14 @@ font-weight: 600;
     text-rendering: optimizeLegibility!important;
     font-size: 20px;
     padding: 20px;
+
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
 .blog h1{
     background: none!important;
     font-size: 46px!important;
     color: #8c1515!important;
+
 }
 
 .blog p{

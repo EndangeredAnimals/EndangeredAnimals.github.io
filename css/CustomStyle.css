@@ -692,7 +692,7 @@ ul.post-data li:last-child {padding-right: 0px;}
 
 /* All Mobile Sizes */
 @media only screen and (max-width: 767px) {
-    .post-summary-footer{display: none;}
+
     .post-summary{padding-bottom: 0px;}
     .blog-style-2 {display: none;}
 }
@@ -891,13 +891,12 @@ a.accordion-toggle{background: #f5f5f5;}
 #toTop {
     width:47px;
     height:47px;
-    background:url(../img/back-top-btn.png) no-repeat;
+    background:url(../img/Bonobo-Baby-Endangered-Animal.jpg) no-repeat;
     text-align:center;
     position:fixed;
     bottom:25px;
     right:20px;
     cursor:pointer;
-    display:none;
     text-indent:-9999px;
     z-index:12;
 }

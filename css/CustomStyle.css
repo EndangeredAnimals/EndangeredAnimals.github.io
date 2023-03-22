@@ -373,7 +373,7 @@ font-weight: 600;
     line-height: 24px;
 }
 
-#about,#about_us, #research {
+#about,#about_us,#email_us,#email_us_contact, #research {
     background-color: #fff;
     display: inline;
     float: left;

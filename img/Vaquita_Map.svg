@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" width="1000" height="620" role="img" aria-labelledby="vqTitle vqDesc">
+<title id="vqTitle">Where vaquitas live</title>
+<desc id="vqDesc">A simplified diagram of the northern end of the Gulf of California in Mexico. The Baja California peninsula lies to the west and the mainland state of Sonora to the east, with the Colorado River entering from the north. Vaquitas live only in a small patch of this upper gulf, near the town of San Felipe. Inside it is a Zero Tolerance Area where fishing nets are banned outright. Numbers fell from 567 in 1997 to 245 in 2008, 59 in 2015 and about eight in 2018. In the 2025 survey scientists saw between seven and ten animals.</desc>
+
+<rect width="1000" height="620" fill="#ffffff"/>
+
+<text x="40" y="48" font-family="Georgia, serif" font-size="27" font-weight="600" fill="#1f1f1f">Where vaquitas live</text>
+<text x="40" y="74" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" fill="#6f6f6f">The smallest home of any sea mammal on Earth. One corner of one sea, and nowhere else, ever.</text>
+
+<!-- water -->
+<rect x="40" y="98" width="580" height="500" fill="#e3f4fb"/>
+
+<!-- Baja California peninsula, west side -->
+<path d="M40 98 H236
+         C242 132 250 168 262 202
+         C274 236 288 268 296 302
+         C304 336 306 368 300 400
+         C294 434 280 466 262 496
+         C246 522 228 548 214 574
+         C208 586 202 594 196 598
+         H40 Z"
+      fill="#eae6de" stroke="#cfc8ba" stroke-width="2"/>
+<text x="130" y="360" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#8a8171" text-anchor="middle">Baja</text>
+<text x="130" y="380" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#8a8171" text-anchor="middle">California</text>
+
+<!-- mainland Mexico, Sonora, east side -->
+<path d="M620 98 H430
+         C446 126 462 150 478 168
+         C496 188 514 204 528 224
+         C542 244 550 266 556 292
+         C562 320 566 350 572 382
+         C578 416 588 452 600 486
+         C608 512 614 552 620 598
+         H620 Z"
+      fill="#eae6de" stroke="#cfc8ba" stroke-width="2"/>
+<text x="556" y="466" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#8a8171" text-anchor="middle">Sonora</text>
+
+<!-- Colorado River coming in from the north -->
+<path d="M330 98 C336 118 328 136 334 152" stroke="#9fe3fa" stroke-width="9" fill="none" stroke-linecap="round"/>
+<text x="344" y="126" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12" fill="#2f7fa5">Colorado River</text>
+
+<!-- the whole vaquita range -->
+<ellipse cx="404" cy="316" rx="86" ry="112" fill="#4e2a84" fill-opacity="0.16" stroke="#4e2a84" stroke-width="2.5"/>
+<text x="404" y="196" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12.5" font-weight="600" fill="#4e2a84" text-anchor="middle">the vaquita's whole world</text>
+
+<!-- Zero Tolerance Area -->
+<path d="M368 268 L448 268 L448 352 L368 352 Z" fill="#8c1515" fill-opacity="0.2" stroke="#8c1515" stroke-width="2.5"/>
+<text x="408" y="314" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11.5" font-weight="700" fill="#8c1515" text-anchor="middle">NO NETS</text>
+<text x="408" y="330" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11.5" fill="#8c1515" text-anchor="middle">allowed here</text>
+
+<!-- San Felipe -->
+<circle cx="296" cy="302" r="5" fill="#1f1f1f"/>
+<text x="286" y="296" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12.5" font-weight="600" fill="#1f1f1f" text-anchor="end">San Felipe</text>
+
+<!-- Gulf label -->
+<text x="470" y="560" font-family="Georgia, serif" font-size="15" font-style="italic" fill="#2f7fa5" text-anchor="middle">Gulf of California</text>
+
+<!-- right hand panel -->
+<g transform="translate(664 116)">
+  <text x="0" y="0" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1f1f">How fast they disappeared</text>
+
+  <g font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="13.5" fill="#414141">
+    <text x="0" y="34">1997</text>
+    <rect x="52" y="22" width="230" height="15" rx="3" fill="#4e2a84"/>
+    <text x="290" y="34" font-weight="700" fill="#1f1f1f">567</text>
+
+    <text x="0" y="64">2008</text>
+    <rect x="52" y="52" width="99" height="15" rx="3" fill="#4e2a84"/>
+    <text x="159" y="64" font-weight="700" fill="#1f1f1f">245</text>
+
+    <text x="0" y="94">2015</text>
+    <rect x="52" y="82" width="24" height="15" rx="3" fill="#4e2a84"/>
+    <text x="84" y="94" font-weight="700" fill="#1f1f1f">59</text>
+
+    <text x="0" y="124">2018</text>
+    <rect x="52" y="112" width="5" height="15" rx="2" fill="#8c1515"/>
+    <text x="65" y="124" font-weight="700" fill="#8c1515">about 9</text>
+  </g>
+
+  <line x1="0" y1="152" x2="300" y2="152" stroke="#e5e5e5" stroke-width="1.5"/>
+
+  <text x="0" y="182" font-family="Georgia, serif" font-size="16" font-weight="600" fill="#2f7d4f">2025: seven to ten seen</text>
+  <text x="0" y="204" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="13" fill="#414141">That is how many the search boats</text>
+  <text x="0" y="222" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="13" fill="#414141">actually saw, not a count of every one</text>
+  <text x="0" y="240" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="13" fill="#414141">alive. Nobody knows that number.</text>
+
+  <text x="0" y="276" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="13" fill="#414141">For three years running the number has</text>
+  <text x="0" y="294" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="13" fill="#414141">stopped falling. Babies were seen in</text>
+  <text x="0" y="312" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="13" fill="#414141">2023, 2024 and 2025, and nets in the</text>
+  <text x="0" y="330" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="13" fill="#414141">red square are down by over 90%.</text>
+</g>
+
+<!-- legend -->
+<g transform="translate(40 540)">
+  <rect x="0" y="0" width="580" height="0" fill="none"/>
+</g>
+<g transform="translate(664 468)">
+  <ellipse cx="14" cy="10" rx="13" ry="9" fill="#4e2a84" fill-opacity="0.16" stroke="#4e2a84" stroke-width="2"/>
+  <text x="38" y="15" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12.5" fill="#414141">Everywhere vaquitas are found</text>
+  <rect x="1" y="34" width="26" height="17" fill="#8c1515" fill-opacity="0.2" stroke="#8c1515" stroke-width="2"/>
+  <text x="38" y="47" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12.5" fill="#414141">Zero Tolerance Area, no nets</text>
+</g>
+
+<text x="40" y="596" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11.5" fill="#a49c8c">A simplified diagram, not to scale. In 2024 and 2025 a few vaquitas were seen just outside the red no-nets square,</text>
+<text x="40" y="612" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11.5" fill="#a49c8c">so the protected box may have been drawn too small.</text>
+</svg>

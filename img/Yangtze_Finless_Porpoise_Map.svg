@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="1000" height="600" role="img" aria-labelledby="yfpTitle yfpDesc">
+<title id="yfpTitle">Where Yangtze finless porpoises live</title>
+<desc id="yfpDesc">A simplified diagram of the Yangtze River from Yichang in the west to Shanghai and the sea in the east. Porpoises live along about 1,700 kilometres of the river and in two lakes that join it from the south, Dongting Lake and Poyang Lake. The 2022 survey counted 595 porpoises in the main river, 492 in Poyang Lake and 162 in Dongting Lake, making 1,249 altogether. The 2025 survey counted 1,426. A dam at Yichang stops them going any further upstream, and about 150 more live in five protected oxbow lakes such as Tian-e-Zhou.</desc>
+
+<rect width="1000" height="600" fill="#ffffff"/>
+
+<text x="40" y="50" font-family="Georgia, serif" font-size="27" font-weight="600" fill="#1f1f1f">Where Yangtze finless porpoises live</text>
+<text x="40" y="76" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" fill="#6f6f6f">One river in China, and nowhere else on Earth. About 1,700 km, from Yichang to the sea.</text>
+
+<!-- land -->
+<rect x="40" y="112" width="920" height="330" fill="#eae6de"/>
+<rect x="40" y="112" width="920" height="330" fill="none" stroke="#dcd6cb" stroke-width="1.5"/>
+<text x="946" y="134" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11.5" fill="#b3aa99" letter-spacing="1.4" text-anchor="end">CHINA</text>
+
+<!-- the porpoise count in the main channel -->
+<g>
+  <path d="M470 268 L470 176 L520 176" stroke="#4e2a84" stroke-width="1.5" fill="none"/>
+  <circle cx="546" cy="176" r="23" fill="#4e2a84"/>
+  <text x="546" y="182" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">595</text>
+  <text x="578" y="171" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#1f1f1f">in the main river</text>
+  <text x="578" y="189" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12" fill="#6f6f6f">mostly between Wuhan and Nanjing</text>
+</g>
+
+<!-- Tian-e-Zhou oxbow -->
+<g>
+  <ellipse cx="186" cy="206" rx="33" ry="14" fill="#cfe9f4" stroke="#2f7d4f" stroke-width="3"/>
+  <path d="M186 220 L186 252" stroke="#2f7d4f" stroke-width="1.8" stroke-dasharray="4 3"/>
+  <text x="186" y="180" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12.5" font-weight="600" fill="#2f7d4f" text-anchor="middle">Tian-e-Zhou</text>
+  <text x="186" y="164" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11" fill="#2f7d4f" text-anchor="middle">a safe oxbow lake</text>
+</g>
+
+<!-- river -->
+<g>
+  <path d="M96 272 C200 264 260 276 356 268 C460 260 520 274 614 266 C720 258 800 272 928 264"
+        stroke="#9fe3fa" stroke-width="30" fill="none" stroke-linecap="round"/>
+  <path d="M96 272 C200 264 260 276 356 268 C460 260 520 274 614 266 C720 258 800 272 928 264"
+        stroke="#59c3e8" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+</g>
+<text x="770" y="250" font-family="Georgia, serif" font-size="15" font-style="italic" fill="#2f7fa5">Yangtze River</text>
+
+<!-- the sea -->
+<path d="M928 264 C948 264 958 278 962 300 L980 300 L980 232 L962 232 C958 252 948 264 928 264 Z" fill="#9fe3fa"/>
+<text x="962" y="322" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12" fill="#2f7fa5" text-anchor="end">the sea</text>
+
+<!-- Dongting Lake, joins from the south -->
+<g>
+  <path d="M262 278 C254 314 270 330 264 358 C300 378 318 350 340 358 C354 330 336 312 344 280 Z"
+        fill="#7ac6e6" stroke="#3f9dc0" stroke-width="2"/>
+  <text x="302" y="398" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#1f1f1f" text-anchor="middle">Dongting Lake</text>
+  <circle cx="302" cy="424" r="20" fill="#4e2a84"/>
+  <text x="302" y="430" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="14.5" font-weight="700" fill="#ffffff" text-anchor="middle">162</text>
+</g>
+
+<!-- Poyang Lake, joins from the south -->
+<g>
+  <path d="M516 276 C508 312 526 328 520 356 C560 384 588 352 610 360 C626 326 602 306 610 280 Z"
+        fill="#7ac6e6" stroke="#3f9dc0" stroke-width="2"/>
+  <text x="564" y="400" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#1f1f1f" text-anchor="middle">Poyang Lake</text>
+  <circle cx="564" cy="426" r="20" fill="#4e2a84"/>
+  <text x="564" y="432" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="14.5" font-weight="700" fill="#ffffff" text-anchor="middle">492</text>
+</g>
+
+<!-- the dam that stops them -->
+<g>
+  <path d="M96 240 L96 304" stroke="#8c1515" stroke-width="5" stroke-linecap="round"/>
+  <path d="M120 330 L104 306" stroke="#8c1515" stroke-width="1.5" fill="none"/>
+  <text x="124" y="336" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12.5" font-weight="600" fill="#8c1515">A dam at Yichang.</text>
+  <text x="124" y="353" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12.5" fill="#8c1515">They cannot swim past it.</text>
+</g>
+
+<!-- cities -->
+<g font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12.5">
+  <circle cx="96" cy="272" r="4.5" fill="#1f1f1f"/>
+  <text x="96" y="228" text-anchor="middle" fill="#1f1f1f" font-weight="600">Yichang</text>
+
+  <circle cx="356" cy="268" r="4.5" fill="#1f1f1f"/>
+  <text x="356" y="302" text-anchor="middle" fill="#1f1f1f" font-weight="600">Wuhan</text>
+
+  <circle cx="614" cy="266" r="4.5" fill="#1f1f1f"/>
+  <text x="630" y="300" text-anchor="middle" fill="#414141">Anqing</text>
+
+  <circle cx="711" cy="262" r="4.5" fill="#1f1f1f"/>
+  <text x="711" y="296" text-anchor="middle" fill="#414141">Nanjing</text>
+
+  <circle cx="898" cy="264" r="4.5" fill="#1f1f1f"/>
+  <text x="898" y="298" text-anchor="middle" fill="#1f1f1f" font-weight="600">Shanghai</text>
+</g>
+
+<!-- legend -->
+<g transform="translate(40 470)">
+  <rect x="0" y="0" width="920" height="82" rx="12" fill="#faf8f5" stroke="#e5e5e5" stroke-width="1.5"/>
+
+  <circle cx="36" cy="30" r="18" fill="#4e2a84"/>
+  <text x="36" y="36" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="middle">162</text>
+  <text x="66" y="27" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12.5" fill="#414141">Porpoises counted there in the 2022 survey.</text>
+  <text x="66" y="45" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12.5" fill="#414141">595 + 492 + 162 = 1,249 altogether.</text>
+  <text x="66" y="66" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12" fill="#6f6f6f">About 150 more live in five protected oxbow lakes.</text>
+
+  <line x1="452" y1="14" x2="452" y2="68" stroke="#e5e5e5" stroke-width="1.5"/>
+
+  <text x="478" y="28" font-family="Georgia, serif" font-size="16" font-weight="600" fill="#2f7d4f">1,426 in the 2025 survey</text>
+  <text x="478" y="49" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12.5" fill="#414141">That is 177 more than in 2022, and the numbers</text>
+  <text x="478" y="66" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12.5" fill="#414141">are going up for the first time ever.</text>
+</g>
+
+<text x="40" y="576" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11.5" fill="#a49c8c">A simplified diagram, not to scale. Places are in the right order along the river, and both lakes really do join the Yangtze from the south.</text>
+</svg>

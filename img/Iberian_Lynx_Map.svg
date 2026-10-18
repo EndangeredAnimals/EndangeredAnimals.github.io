@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" width="1000" height="620" role="img" aria-labelledby="t d">
+<title id="t">Where Iberian lynx live</title>
+<desc id="d">A simplified map of Spain and Portugal. Iberian lynx live in Mediterranean scrubland, with the two original strongholds at Doñana in the south west and Sierra Morena to its north east, plus newer areas where they have spread. In 2002 fewer than 100 survived in two isolated patches of Spain, with none in Portugal. By 2025 there were 2,663, made up of 2,269 in Spain and 394 in Portugal.</desc>
+<rect width="1000" height="620" fill="#ffffff"/>
+<text x="40" y="48" font-family="Georgia, serif" font-size="27" font-weight="600" fill="#1f1f1f">Where Iberian lynx live</text>
+<text x="40" y="74" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" fill="#6f6f6f">Only in Spain and Portugal. Twenty years ago there were fewer than a hundred.</text>
+<rect x="40" y="96" width="520" height="476" fill="#e3f4fb"/>
+<path d="M112 176 C150 162 210 156 268 158 C324 160 372 166 404 178 C428 187 446 198 462 214 C476 228 478 248 470 268 C462 288 452 306 446 326 C440 348 428 368 412 386 C392 408 362 428 330 440 C300 452 272 458 254 456 C232 454 208 444 190 428 C170 410 158 386 150 360 C140 328 132 292 126 258 C120 226 108 194 112 176 Z" fill="#eae6de" stroke="#cfc8ba" stroke-width="2"/>
+<path d="M404 178 C420 186 438 194 462 214" stroke="#b9ae99" stroke-width="5" fill="none" stroke-linecap="round"/>
+<text x="436" y="172" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#8a8171" text-anchor="middle">Pyrenees</text>
+<path d="M116 182 C140 176 158 180 166 192 C160 236 158 288 162 336 C166 382 176 414 190 428 C170 410 158 386 150 360 C140 328 132 292 126 258 C120 226 108 194 116 182 Z" fill="#e0dace" stroke="#cfc8ba" stroke-width="1.5"/>
+<text x="140" y="306" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#8a8171" text-anchor="middle">Portugal</text>
+<text x="310" y="232" font-family="Georgia, serif" font-size="16" font-weight="600" fill="#8a8171" text-anchor="middle">Spain</text>
+<text x="258" y="480" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#2f7fa5" text-anchor="middle">Strait of Gibraltar</text>
+<text x="126" y="512" font-family="Georgia, serif" font-size="12.5" font-weight="normal" fill="#2f7fa5" text-anchor="middle">Atlantic Ocean</text>
+<text x="452" y="512" font-family="Georgia, serif" font-size="12.5" font-weight="normal" fill="#2f7fa5" text-anchor="middle">Mediterranean Sea</text>
+<ellipse cx="356" cy="344" rx="26" ry="16" fill="#d8450b" fill-opacity="0.32" stroke="#5c2f14" stroke-width="1.5"/>
+<ellipse cx="232" cy="348" rx="20" ry="13" fill="#d8450b" fill-opacity="0.32" stroke="#5c2f14" stroke-width="1.5"/>
+<ellipse cx="186" cy="372" rx="16" ry="11" fill="#d8450b" fill-opacity="0.32" stroke="#5c2f14" stroke-width="1.5"/>
+<ellipse cx="318" cy="404" rx="22" ry="14" fill="#d8450b" fill-opacity="0.32" stroke="#5c2f14" stroke-width="1.5"/>
+<ellipse cx="386" cy="380" rx="17" ry="12" fill="#d8450b" fill-opacity="0.32" stroke="#5c2f14" stroke-width="1.5"/>
+<ellipse cx="284" cy="372" rx="50" ry="26" fill="#d8450b" fill-opacity="0.52" stroke="#5c2f14" stroke-width="2.5"/>
+<text x="292" y="336" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#1f1f1f" text-anchor="middle">Sierra Morena</text>
+<ellipse cx="212" cy="416" rx="32" ry="22" fill="#d8450b" fill-opacity="0.52" stroke="#5c2f14" stroke-width="2.5"/>
+<text x="196" y="450" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#1f1f1f" text-anchor="middle">Doñana</text>
+<text x="604" y="128" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1f1f" text-anchor="start">2,663 lynx in 2025</text>
+<text x="604" y="154" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">2,269 in Spain and 394 in Portugal.</text>
+<text x="604" y="187" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">In 2002 there were fewer than 100,</text>
+<text x="604" y="206" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">in just two separate patches of Spain</text>
+<text x="604" y="225" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">too far apart to reach each other.</text>
+<text x="604" y="244" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">Portugal had none at all.</text>
+<line x1="604" y1="263" x2="944" y2="263" stroke="#e5e5e5" stroke-width="1.5"/>
+<text x="604" y="285" font-family="Georgia, serif" font-size="16" font-weight="600" fill="#2f7d4f" text-anchor="start">The best cat comeback ever</text>
+<text x="604" y="309" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">In 2024 the lynx was moved off the</text>
+<text x="604" y="328" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">Endangered list, and the scientists</text>
+<text x="604" y="347" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">called it the greatest recovery of any</text>
+<text x="604" y="366" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">cat species ever achieved.</text>
+<text x="604" y="399" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="normal" fill="#6f6f6f" text-anchor="start">They now live in 26 separate areas.</text>
+<text x="604" y="417" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="normal" fill="#6f6f6f" text-anchor="start">Over 90% of what they eat is rabbit, so</text>
+<text x="604" y="435" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="normal" fill="#6f6f6f" text-anchor="start">no rabbits would mean no lynx.</text>
+<ellipse cx="618" cy="476" rx="13" ry="9" fill="#d8450b" fill-opacity="0.22" stroke="#d8450b" stroke-width="2"/>
+<text x="644" y="481" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="normal" fill="#414141" text-anchor="start">The two original strongholds</text>
+<ellipse cx="618" cy="502" rx="13" ry="9" fill="#c98b6a" fill-opacity="0.22" stroke="#c98b6a" stroke-width="2"/>
+<text x="644" y="507" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="normal" fill="#414141" text-anchor="start">Newer areas, spreading out</text>
+<text x="40" y="596" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" fill="#a49c8c">A simplified diagram, not to scale. Doñana and Sierra Morena are the two places lynx never quite disappeared from.</text>
+</svg>

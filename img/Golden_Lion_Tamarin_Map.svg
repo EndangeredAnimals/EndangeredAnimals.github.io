@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" width="1000" height="620" role="img" aria-labelledby="t d">
+<title id="t">Where golden lion tamarins live</title>
+<desc id="d">A simplified map of the coast of Rio de Janeiro State in Brazil. Golden lion tamarins live nowhere else on Earth, in scattered fragments of Atlantic Forest about 100 kilometres from the city of Rio de Janeiro. The BR-101 highway cuts through their range, and a forested bridge was built over it to reconnect two pieces. About 4,800 remain, up from fewer than 200 in the 1970s.</desc>
+<rect width="1000" height="620" fill="#ffffff"/>
+<text x="40" y="48" font-family="Georgia, serif" font-size="27" font-weight="600" fill="#1f1f1f">Where golden lion tamarins live</text>
+<text x="40" y="74" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" fill="#6f6f6f">A scatter of forest north east of Rio de Janeiro. That is the whole world.</text>
+<rect x="40" y="96" width="520" height="476" fill="#e3f4fb"/>
+<path d="M40 96 H560 V300 C500 318 452 356 396 392 C336 430 262 452 186 470 C130 484 82 492 40 494 Z" fill="#eae6de" stroke="#cfc8ba" stroke-width="2"/>
+<text x="150" y="158" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#8a8171" text-anchor="start">BRAZIL</text>
+<text x="150" y="176" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#8a8171" text-anchor="start">Rio de Janeiro State</text>
+<text x="300" y="528" font-family="Georgia, serif" font-size="13" font-weight="normal" fill="#2f7fa5" text-anchor="middle">Atlantic Ocean</text>
+<rect x="286" y="208" width="196" height="132" rx="10" fill="none" stroke="#2f7d4f" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="384" y="200" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#2f7d4f" text-anchor="middle">the whole range of the species</text>
+<ellipse cx="320" cy="240" rx="20" ry="14" fill="#2f7d4f" fill-opacity="0.6" stroke="#1d5233" stroke-width="2"/>
+<ellipse cx="368" cy="226" rx="15" ry="11" fill="#2f7d4f" fill-opacity="0.6" stroke="#1d5233" stroke-width="2"/>
+<ellipse cx="352" cy="268" rx="22" ry="15" fill="#2f7d4f" fill-opacity="0.6" stroke="#1d5233" stroke-width="2"/>
+<ellipse cx="410" cy="250" rx="17" ry="12" fill="#2f7d4f" fill-opacity="0.6" stroke="#1d5233" stroke-width="2"/>
+<ellipse cx="398" cy="296" rx="20" ry="14" fill="#2f7d4f" fill-opacity="0.6" stroke="#1d5233" stroke-width="2"/>
+<ellipse cx="446" cy="282" rx="14" ry="10" fill="#2f7d4f" fill-opacity="0.6" stroke="#1d5233" stroke-width="2"/>
+<ellipse cx="312" cy="300" rx="15" ry="11" fill="#2f7d4f" fill-opacity="0.6" stroke="#1d5233" stroke-width="2"/>
+<ellipse cx="452" cy="226" rx="13" ry="9" fill="#2f7d4f" fill-opacity="0.6" stroke="#1d5233" stroke-width="2"/>
+<path d="M264 344 C316 318 372 300 434 292 C470 288 500 288 524 292" stroke="#d8450b" stroke-width="4" fill="none" stroke-linecap="round"/>
+<text x="250" y="358" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#d8450b" text-anchor="end">BR-101 highway</text>
+<rect x="366" y="292" width="17" height="17" rx="3" fill="#ffffff" stroke="#4e2a84" stroke-width="2.5"/>
+<path d="M374 312 V356" stroke="#4e2a84" stroke-width="1.5" fill="none"/>
+<text x="374" y="374" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#4e2a84" text-anchor="middle">a forest bridge built</text>
+<text x="374" y="389" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#4e2a84" text-anchor="middle">over the road in 2020</text>
+<circle cx="300" cy="442" r="6" fill="#8c1515"/>
+<text x="286" y="438" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#8c1515" text-anchor="end">Rio de Janeiro</text>
+<text x="286" y="453" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#8c1515" text-anchor="end">about 100 km away</text>
+<text x="604" y="128" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1f1f" text-anchor="start">About 4,800 tamarins</text>
+<text x="604" y="154" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">In the 1970s fewer than 200 were left</text>
+<text x="604" y="173" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">and their forest was down to roughly</text>
+<text x="604" y="192" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">2 percent of what it had been.</text>
+<line x1="604" y1="211" x2="944" y2="211" stroke="#e5e5e5" stroke-width="1.5"/>
+<text x="604" y="233" font-family="Georgia, serif" font-size="16" font-weight="600" fill="#2f7d4f" text-anchor="start">Zoo-born monkeys, wild descendants</text>
+<text x="604" y="257" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">From 1984, over sixteen years, 146</text>
+<text x="604" y="276" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">tamarins born in zoos were released</text>
+<text x="604" y="295" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">into reserves near Rio, with help from</text>
+<text x="604" y="314" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">more than 40 zoos. More than half of all</text>
+<text x="604" y="333" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">wild tamarins today are descended</text>
+<text x="604" y="352" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">from those monkeys.</text>
+<text x="604" y="385" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="normal" fill="#6f6f6f" text-anchor="start">Yellow fever cut the population from</text>
+<text x="604" y="403" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="normal" fill="#6f6f6f" text-anchor="start">3,700 to 2,516 between 2016 and 2018.</text>
+<text x="604" y="421" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="normal" fill="#6f6f6f" text-anchor="start">A census finished in early 2023 counted</text>
+<text x="604" y="439" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="normal" fill="#6f6f6f" text-anchor="start">about 4,800, more than before it hit.</text>
+<ellipse cx="618" cy="516" rx="13" ry="9" fill="#2f7d4f" fill-opacity="0.22" stroke="#2f7d4f" stroke-width="2"/>
+<text x="644" y="521" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="normal" fill="#414141" text-anchor="start">Forest with tamarins in it</text>
+<path d="M605 542 h26" stroke="#d8450b" stroke-width="4" stroke-linecap="round"/>
+<text x="644" y="547" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="normal" fill="#414141" text-anchor="start">The highway that split the forest</text>
+<text x="40" y="596" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" fill="#a49c8c">A simplified diagram, not to scale. The forest is broken into separate pieces, which is why a bridge between two of them counts as conservation.</text>
+</svg>

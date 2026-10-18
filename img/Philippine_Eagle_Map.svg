@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" width="1000" height="620" role="img" aria-labelledby="t d">
+<title id="t">Where Philippine eagles live</title>
+<desc id="d">A simplified map of the Philippines. Philippine eagles live on only four islands: Mindanao in the south, which is the stronghold and contains Mount Apo, Samar and Leyte in the middle, and the eastern mountains of Luzon in the north. Estimates of how many remain range from about 180 mature birds to more than 700. Five rescued eagles have been released on Leyte, where the species had been lost.</desc>
+<rect width="1000" height="620" fill="#ffffff"/>
+<text x="40" y="48" font-family="Georgia, serif" font-size="27" font-weight="600" fill="#1f1f1f">Where Philippine eagles live</text>
+<text x="40" y="74" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" fill="#6f6f6f">Only in the Philippines, and only on four of its islands.</text>
+<rect x="40" y="96" width="520" height="476" fill="#e3f4fb"/>
+<path d="M118 372 C132 352 152 336 172 326 C186 320 194 328 186 342 C172 366 150 388 132 400 C120 408 110 388 118 372 Z" fill="#eae6de" stroke="#cfc8ba" stroke-width="1.5"/>
+<path d="M242 296 C258 288 274 292 278 304 C282 318 268 328 252 324 C238 320 232 302 242 296 Z" fill="#eae6de" stroke="#cfc8ba" stroke-width="1.5"/>
+<path d="M286 366 C302 356 318 362 320 376 C322 392 306 402 292 396 C278 390 276 374 286 366 Z" fill="#eae6de" stroke="#cfc8ba" stroke-width="1.5"/>
+<path d="M330 382 C342 372 356 378 356 392 C356 408 342 418 330 412 C318 406 320 390 330 382 Z" fill="#eae6de" stroke="#cfc8ba" stroke-width="1.5"/>
+<path d="M366 368 C372 358 380 360 380 372 C380 388 372 400 366 396 C360 392 360 378 366 368 Z" fill="#eae6de" stroke="#cfc8ba" stroke-width="1.5"/>
+<path d="M392 400 C404 394 414 400 412 410 C410 422 396 426 388 418 C382 412 384 404 392 400 Z" fill="#eae6de" stroke="#cfc8ba" stroke-width="1.5"/>
+<path d="M214 132 C244 116 286 114 312 124 C334 132 342 152 338 172 C334 196 320 214 314 236 C308 258 314 276 306 292 C296 310 272 312 256 300 C240 288 236 266 228 248 C218 226 204 208 198 186 C192 162 196 144 214 132 Z" fill="#eae6de" stroke="#cfc8ba" stroke-width="1.5"/>
+<path d="M316 138 C330 146 338 158 336 176 C333 198 322 214 314 234 C308 250 312 268 306 286 C300 296 290 296 288 286 C292 262 300 240 306 218 C312 194 314 164 316 138 Z" fill="#d8450b" fill-opacity="0.5" stroke="#a8350a" stroke-width="2"/>
+<text x="228" y="196" font-family="Georgia, serif" font-size="14" font-weight="600" fill="#8a8171" text-anchor="start">Luzon</text>
+<text x="352" y="214" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#a8350a" text-anchor="start">eastern</text>
+<text x="352" y="228" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#a8350a" text-anchor="start">mountains only</text>
+<path d="M406 320 C424 310 442 316 444 332 C446 350 432 364 416 360 C400 356 396 330 406 320 Z" fill="#d8450b" fill-opacity="0.5" stroke="#a8350a" stroke-width="2"/>
+<text x="462" y="326" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#1f1f1f" text-anchor="start">Samar</text>
+<path d="M396 364 C410 356 424 362 424 376 C424 394 408 410 396 404 C384 398 386 372 396 364 Z" fill="#d8450b" fill-opacity="0.5" stroke="#a8350a" stroke-width="2"/>
+<text x="438" y="386" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#1f1f1f" text-anchor="start">Leyte</text>
+<path d="M344 428 C382 414 428 416 462 428 C492 438 506 460 500 482 C494 506 470 520 442 526 C410 532 374 528 352 514 C330 500 320 470 328 450 C332 438 338 431 344 428 Z" fill="#d8450b" fill-opacity="0.5" stroke="#a8350a" stroke-width="2"/>
+<text x="412" y="476" font-family="Georgia, serif" font-size="14" font-weight="600" fill="#1f1f1f" text-anchor="middle">Mindanao</text>
+<circle cx="386" cy="500" r="4.5" fill="#8c1515"/>
+<text x="386" y="518" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#8c1515" text-anchor="middle">Mount Apo</text>
+<text x="120" y="540" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#2f7fa5" text-anchor="start">Philippines</text>
+<text x="604" y="128" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1f1f" text-anchor="start">Nobody agrees how many are left</text>
+<text x="604" y="154" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">Estimates run from about 180 grown-up</text>
+<text x="604" y="173" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">eagles to more than 700. They are very</text>
+<text x="604" y="192" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">hard to count in mountain rainforest,</text>
+<text x="604" y="211" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">which is rather the point of them.</text>
+<text x="604" y="244" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">One pair needs thousands of hectares</text>
+<text x="604" y="263" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">of old forest, so a small wood is no</text>
+<text x="604" y="282" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">use to them at all.</text>
+<line x1="604" y1="301" x2="944" y2="301" stroke="#e5e5e5" stroke-width="1.5"/>
+<text x="604" y="323" font-family="Georgia, serif" font-size="16" font-weight="600" fill="#2f7d4f" text-anchor="start">Coming back to Leyte</text>
+<text x="604" y="347" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">Leyte had lost its eagles completely.</text>
+<text x="604" y="366" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">Five rescued birds have now been set</text>
+<text x="604" y="385" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">free there, with room for about sixteen.</text>
+<text x="604" y="404" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">One of them, Lakpue, was filmed</text>
+<text x="604" y="423" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">drinking from a river in 2026.</text>
+<ellipse cx="618" cy="470" rx="13" ry="9" fill="#d8450b" fill-opacity="0.22" stroke="#d8450b" stroke-width="2"/>
+<text x="644" y="475" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="normal" fill="#414141" text-anchor="start">Where eagles still live</text>
+<ellipse cx="618" cy="496" rx="13" ry="9" fill="#cfc8ba" fill-opacity="0.22" stroke="#cfc8ba" stroke-width="2"/>
+<text x="644" y="501" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="normal" fill="#414141" text-anchor="start">Other Philippine islands</text>
+<text x="40" y="580" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" fill="#a49c8c">A simplified diagram, not to scale. The islands are in roughly the right places relative to each other.</text>
+<text x="40" y="596" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" fill="#a49c8c">On Luzon the eagles survive only in the eastern mountain range, not across the whole island.</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" width="1000" height="620" role="img" aria-labelledby="t d">
+<title id="t">Where Sumatran rhinos live</title>
+<desc id="d">A simplified map of Sumatra in Indonesia. Sumatran rhinos are known from three separated forests: Gunung Leuser in the north, Bukit Barisan Selatan in the south west and Way Kambas in the south east, where the breeding sanctuary holds ten animals. Two or three rhinos may also survive in Borneo. Between 34 and 47 are believed to remain worldwide, down from an estimate of 180 to 200 in 2007.</desc>
+<rect width="1000" height="620" fill="#ffffff"/>
+<text x="40" y="48" font-family="Georgia, serif" font-size="27" font-weight="600" fill="#1f1f1f">Where Sumatran rhinos live</text>
+<text x="40" y="74" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" fill="#6f6f6f">Three separated forests on one island, and nobody can see the animals in them.</text>
+<rect x="40" y="96" width="520" height="476" fill="#e3f4fb"/>
+<path d="M126 176 C150 148 186 140 214 156 C244 174 266 204 288 234 C314 268 342 300 370 334 C396 364 422 392 440 422 C456 448 450 476 424 480 C398 484 372 462 348 436 C318 404 288 370 258 334 C230 300 200 268 174 238 C150 210 118 200 126 176 Z" fill="#eae6de" stroke="#cfc8ba" stroke-width="2"/>
+<text x="258" y="300" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#8a8171" text-anchor="middle">Sumatra</text>
+<ellipse cx="168" cy="194" rx="26" ry="19" fill="#2f7d4f" fill-opacity="0.6" stroke="#1d5233" stroke-width="2.5"/>
+<text x="150" y="160" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#1f1f1f" text-anchor="middle">Gunung Leuser</text>
+<ellipse cx="352" cy="400" rx="20" ry="15" fill="#2f7d4f" fill-opacity="0.6" stroke="#1d5233" stroke-width="2.5"/>
+<text x="330" y="362" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#1f1f1f" text-anchor="end">Bukit Barisan Selatan</text>
+<ellipse cx="420" cy="452" rx="18" ry="14" fill="#2f7d4f" fill-opacity="0.6" stroke="#1d5233" stroke-width="2.5"/>
+<text x="444" y="442" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#1f1f1f" text-anchor="start">Way Kambas</text>
+<path d="M322 368 C330 378 336 384 342 390" stroke="#2f7d4f" stroke-width="1.5" fill="none"/>
+<text x="444" y="458" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#2f7d4f" text-anchor="start">the sanctuary is here,</text>
+<text x="444" y="472" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#2f7d4f" text-anchor="start">with ten rhinos</text>
+<circle cx="130" cy="404" r="26" fill="#4e2a84"/><text x="130" y="411.54" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">34</text>
+<circle cx="218" cy="404" r="26" fill="#4e2a84"/><text x="218" y="411.54" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">47</text>
+<text x="174" y="398" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#4e2a84" text-anchor="middle">to</text>
+<text x="174" y="450" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#4e2a84" text-anchor="middle">rhinos left in the world,</text>
+<text x="174" y="466" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#4e2a84" text-anchor="middle">and the figure has not</text>
+<text x="174" y="481" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#4e2a84" text-anchor="middle">moved in three years</text>
+<text x="96" y="232" font-family="Georgia, serif" font-size="13" font-weight="normal" fill="#2f7fa5" text-anchor="start">Indian Ocean</text>
+<text x="534" y="168" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#8a8171" text-anchor="end">Borneo lies</text>
+<text x="534" y="182" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#8a8171" text-anchor="end">east of here.</text>
+<text x="534" y="196" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#8a8171" text-anchor="end">Two or three rhinos</text>
+<text x="534" y="210" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#8a8171" text-anchor="end">may hang on there.</text>
+<text x="604" y="128" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1f1f" text-anchor="start">Between 34 and 47</text>
+<text x="604" y="154" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">In 2007 the estimate was 180 to 200.</text>
+<text x="604" y="173" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">The forest is steep, wet and dense</text>
+<text x="604" y="192" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">enough that a large animal can live</text>
+<text x="604" y="211" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">there undetected for a decade. That</text>
+<text x="604" y="230" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">hides them from poachers, and it also</text>
+<text x="604" y="249" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">hides them from each other.</text>
+<line x1="604" y1="268" x2="944" y2="268" stroke="#e5e5e5" stroke-width="1.5"/>
+<text x="604" y="290" font-family="Georgia, serif" font-size="16" font-weight="600" fill="#2f7d4f" text-anchor="start">Born in the sanctuary, then a mother</text>
+<text x="604" y="314" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">Five calves have been born at the Way</text>
+<text x="604" y="333" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">Kambas sanctuary. The newest, Indra,</text>
+<text x="604" y="352" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">matters most: his mother Delilah was</text>
+<text x="604" y="371" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">born there too, so a rhino from the</text>
+<text x="604" y="390" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#414141" text-anchor="start">programme grew up and had a calf.</text>
+<text x="604" y="423" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="normal" fill="#6f6f6f" text-anchor="start">In 2025 detection dogs found dung in</text>
+<text x="604" y="441" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="normal" fill="#6f6f6f" text-anchor="start">part of Way Kambas where the species</text>
+<text x="604" y="459" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="normal" fill="#6f6f6f" text-anchor="start">was thought to be gone. Early DNA came</text>
+<text x="604" y="477" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="normal" fill="#6f6f6f" text-anchor="start">back positive; testing continues.</text>
+<ellipse cx="618" cy="540" rx="13" ry="9" fill="#2f7d4f" fill-opacity="0.22" stroke="#2f7d4f" stroke-width="2"/>
+<text x="644" y="545" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="normal" fill="#414141" text-anchor="start">Forest where rhinos are believed to survive</text>
+<text x="40" y="596" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" fill="#a49c8c">A simplified diagram, not to scale. Surveys rely on dung, tracks, dogs and cameras, because almost nobody ever sees one.</text>
+</svg>
